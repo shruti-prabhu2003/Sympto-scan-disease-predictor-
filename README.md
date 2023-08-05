@@ -1,2 +1,2 @@
-# Sympto-scan-disease-predictor-
+# Sympto-scan-disease-predictor
 Data analytics project
